@@ -1,8 +1,8 @@
-Preparation for Metadata Lesson
+# Preparation for Metadata Lesson
 
-assigned 6/28/2021
+## Assigned 6/28/2021
 
-due 7/7/2021
+## Due 7/7/2021
 
 On 7/7/2021, we will be looking metadata contents and formats. Sometimes, when you look at examples of metadata, you will see extra notations interspersed amidst the
 actual metadata. The notations are strings that begin with the character "<" and end with a ">". In those cases, the metadata has been written in a format called XML -
