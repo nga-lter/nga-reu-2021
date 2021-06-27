@@ -14,5 +14,5 @@ the markup language will help you focus on the metadata itself without getting t
 Before our next meeting, please read [W3 School's Introduction to XML](https://www.w3schools.com/xml/xml_whatis.asp). 
 
 Most of the information about XML is written for computer programmers so is much more complex than we need.  However, if you are interested in learning how to read
-and write XML files, you could also read [What is an XML file and how do I open one](https://www.howtogeek.com/357092/what-is-an-xml-file-and-how-do-i-open-one/), 
+and write XML files, you could also read [What is an XML File (And How Do I Open One)](https://www.howtogeek.com/357092/what-is-an-xml-file-and-how-do-i-open-one/), 
 but you don't have to.
