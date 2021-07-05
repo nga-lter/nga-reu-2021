@@ -20,6 +20,9 @@ dataset on your own, and present your findings to the group.
   * Is there a way to download a citation?
 5. Be prepared to show your slide during our next session.
 
+
+### Possible Data Archives and Portals
+
 Give these archives a try (or ask your advisor) 
 * [NOAA's National Centers for Environmental Information Geoportal](https://www.ncei.noaa.gov/metadata/geoportal/#)
 * [DataONE](https://search.dataone.org/data)
