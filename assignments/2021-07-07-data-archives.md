@@ -26,3 +26,8 @@ Give these archives a try (or ask your advisor)
 * [DataONE subset to NGA LTER](https://search.dataone.org/portals/NGALTER/Data)
 * [Ecotaxa](https://ecotaxa.obs-vlfr.fr)
 * [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+* [MetaZooGene](https://www.st.nmfs.noaa.gov/nauplius/media/metazoogene/atlas/index-o07.html)
+* [Environmental Data Initiative](https://portal.edirepository.org/nis/home.jsp)
+* [Alaska Ocean Observing System's Ocean Data Explorer](https://portal.aoos.org)
+
+*Note: Some datasets may appear in more than one archive*
