@@ -8,7 +8,7 @@
 In Week 5 of the Data Workshop, we will be working with a command line interface available. That means, we'll be issuing commands to the computer by typing 
 them, not by clicking things in the Graphical User Interface (GIU). This is a helpful skill if you:
 * log into a remote computer like a supercomputer, or
-* need to perform a set of repetative tasks.
+* need to perform a set of repetitive tasks.
 
 The interface we will be using is called the "bash shell". To use it, you might need to install  
 software on your computer.  The instructions for this are different depending on whether you are using a Windows, Mac, or Linux PC.
