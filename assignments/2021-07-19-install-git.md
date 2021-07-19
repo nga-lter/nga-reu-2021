@@ -24,3 +24,9 @@ distributed by Apple.  Also, you'll probably also need to install a program call
 until the last minute.
 
 We won't need a GitHub account quite yet.  We'll do that next week.
+
+To test your installation is complete, at your terminal bash prompt, type:
+```
+$ git --version
+```
+You should get a sensible reply.  If not, ask Liz for help.
